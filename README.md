@@ -1,2 +1,2 @@
 # Crypto App 
-## its a simple app where yyou ccan see the crypyo currency with their current value and changes 
+### its a simple app where you can see the crypto currency with their current value and changes 
